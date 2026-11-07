@@ -1,6 +1,6 @@
 # Island UI Kit
 
-**Live page:** https://russophone.github.io/island-ui-kit/
+**Live page:** [https://russophone.github.io/island-ui-kit/](https://russophone.github.io/tomodachi-island-ui-kit/)
 
 An interactive, fan-made style sheet of a soft, bouncy, Tomodachi-Life-like interface: live components (menu, buttons, editor rail and tabs, color picker, checkbox, switch, slider, select, input, progress, speech balloon, dialog, tooltip, popover, badges, resident card, colors) with their design specs (colors, sizes at 1080p, motion timings) right next to each one.
 
